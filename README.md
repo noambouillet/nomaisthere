@@ -34,5 +34,5 @@ My first focus was offensive cybersecurity, I spent a lot of time on HackTheBox,
 <!-- CAT_START -->
 >Cat of the day - September 16, 2026 (come back tomorrow for another one): 
 
-![](https://s3.us-west-2.amazonaws.com/cdn2.thecatapi.com/images/MjA1NDQ4Mw.jpg)
+![](https://s3.us-west-2.amazonaws.com/cdn2.thecatapi.com/images/MTg1NjQwNw.jpg)
 <!-- CAT_END -->
